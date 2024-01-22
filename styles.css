@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  font-family: Asul, sans-serif;
+}
+.header {
+  text-align: center;
+  padding: 5px;
+  background-color: #0a1c56;
+  color: #ffffff;
+  font-size: 90%;
+}
+.img-div {
+  padding: 5px;
+}
+.img-div img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+}
+#img-caption {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  margin: 50px 0;
+}
+h3 {
+  text-align: center;
+}
+ul {
+  max-width: 75%;
+  margin: 0 auto 50px auto;
+}
+li {
+  margin: 25px 0;
+}
